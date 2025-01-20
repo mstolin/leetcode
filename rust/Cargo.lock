@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
+name = "fizz-buzz"
+version = "0.1.0"
+
+[[package]]
 name = "richest-customer-wealth"
+version = "0.1.0"
+
+[[package]]
+name = "two-sum"
 version = "0.1.0"

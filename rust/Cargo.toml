@@ -1,2 +1,2 @@
 [workspace]
-members = ["1672-richest-customer-wealth"]
+members = ["412-fizz-buzz", "1672-richest-customer-wealth", "1-two-sum"]
